@@ -1,3 +1,4 @@
+![ScreenShot](https://cloud.githubusercontent.com/assets/16680975/22430702/12b1756c-e735-11e6-802a-681a6abf25d2.jpg)
 ## Welcome to GitHub Pages
 
 [//]: # (This may be the most platform independent comment)
@@ -32,7 +33,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-![ScreenShot](https://cloud.githubusercontent.com/assets/16680975/22430702/12b1756c-e735-11e6-802a-681a6abf25d2.jpg)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
