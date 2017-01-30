@@ -9,20 +9,14 @@ You can use the [editor on GitHub](https://github.com/PrasoonShandilya/prasoonsh
 
 ### WHO
 
-Hey what's up? Full name's Rafael but everyone calls me Raf. I'm a front-end developer born & raised in Belgium, but currently working in London at NEVERBLAND.
+Hey what's up? Full name's Prasoon K. Shandilya but everyone calls me Shandilya. I'm a designer/developer in Kolkata currently completing my research work at IISER Kolkata.
 
-Fluent in HTML5 CSS3 Sass Less and improving on my JavaScript jQuery every day. I know my way around WordPress and I've recently started experimenting with REST APIs using React.
+Fluent in full stack mobile app development and improving on my JavaScript jQuery every day. I know my way around Firebase and I've recently started experimenting with REST APIs using React.
 
-[Link](url) and ![Image](src)
-
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### WHAT
 
-##[Happily Fit](https://github.com/PrasoonShandilya/prasoonshandilya.github.io/settings)
+###[Happily Fit](https://github.com/PrasoonShandilya/prasoonshandilya.github.io/settings)
 #The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ##[Ardent Clicks](https://github.com/PrasoonShandilya/prasoonshandilya.github.io/settings)
