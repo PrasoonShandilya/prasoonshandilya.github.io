@@ -24,17 +24,17 @@ The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### WHERE
 
-Researcher
-IISER KOLKATA
-August 2012 — Present
-Kolkata, India
+Researcher  
+| IISER KOLKATA  
+| August 2012 — Present  
+| Kolkata, India
 
 Former Founder
-Happily Fit
-February 2016 — January 2017
-Kolkata, India
+| Happily Fit  
+| February 2016 — January 2017
+| Kolkata, India  
 
 ### GET IN TOUCH
 
 shandilya.prasoon@gmail.com
-|+91-7076630072
+| +91-7076630072  
