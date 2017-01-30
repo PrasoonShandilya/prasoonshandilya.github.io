@@ -1,36 +1,20 @@
-## [GET IN TOUCH](mailto:pks12ms095@iiserkol.ac.in)
-
 [//]: # (This may be the most platform independent comment)
 
 <!---
 your comment goes here
 and here
--->
-You can use the [editor on GitHub](https://github.com/PrasoonShandilya/prasoonshandilya.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use the [editor on GitHub](https://github.com/PrasoonShandilya/prasoonshandilya.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+-->
 
 ### WHO
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hey what's up? Full name's Rafael but everyone calls me Raf. I'm a front-end developer born & raised in Belgium, but currently working in London at NEVERBLAND.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+Fluent in HTML5 CSS3 Sass Less and improving on my JavaScript jQuery every day. I know my way around WordPress and I've recently started experimenting with REST APIs using React.
 
 [Link](url) and ![Image](src)
-```
+
 
 
 
@@ -38,8 +22,27 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### WHAT
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PrasoonShandilya/prasoonshandilya.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##[Happily Fit](https://github.com/PrasoonShandilya/prasoonshandilya.github.io/settings)
+#The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+##[Ardent Clicks](https://github.com/PrasoonShandilya/prasoonshandilya.github.io/settings)
+
+The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+##[Inquivesta](https://github.com/PrasoonShandilya/prasoonshandilya.github.io/settings)
+
+The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### WHERE
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Researcher
+IISER KOLKATA
+August 2012 — Present
+Kolkata, India
+
+Former Founder
+Happily Fit: Personal Trainer
+February 2016 — January 2017
+Kolkata, India
+
+### [GET IN TOUCH]
