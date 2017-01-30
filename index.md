@@ -16,15 +16,10 @@ Fluent in full stack mobile app development and improving on my JavaScript jQuer
 
 ### WHAT
 
-###[Happily Fit](https://github.com/PrasoonShandilya/prasoonshandilya.github.io/settings)
-#The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-##[Ardent Clicks](https://github.com/PrasoonShandilya/prasoonshandilya.github.io/settings)
-
+#### [Happily Fit](https://play.google.com/store/apps/details?id=com.apphappily.happilyfit)
 The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-##[Inquivesta](https://github.com/PrasoonShandilya/prasoonshandilya.github.io/settings)
-
+#### [Inquivesta](http://www.inquivesta.iiserkol.ac.in/)
 The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### WHERE
@@ -35,8 +30,11 @@ August 2012 — Present
 Kolkata, India
 
 Former Founder
-Happily Fit: Personal Trainer
+Happily Fit
 February 2016 — January 2017
 Kolkata, India
 
-### [GET IN TOUCH]
+### GET IN TOUCH
+
+shandilya.prasoon@gmail.com
++91-7076630072
