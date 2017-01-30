@@ -16,10 +16,10 @@ Fluent in full stack mobile app development and improving on my JavaScript jQuer
 
 ### WHAT
 
-[*Happily Fit*](https://play.google.com/store/apps/details?id=com.apphappily.happilyfit)  
+[Happily Fit](https://play.google.com/store/apps/details?id=com.apphappily.happilyfit)  
 The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-[*Inquivesta*](http://www.inquivesta.iiserkol.ac.in/)  
+[Inquivesta](http://www.inquivesta.iiserkol.ac.in/)  
 The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### WHERE
@@ -30,7 +30,7 @@ August 2012 — Present
 Kolkata, India  
 
 **Former Founder**  
-***Happily Fit***  
+***HAPPILY FIT***  
 February 2016 — January 2017  
 Kolkata, India  
 
