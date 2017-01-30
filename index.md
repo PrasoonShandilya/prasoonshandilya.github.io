@@ -9,7 +9,7 @@ You can use the [editor on GitHub](https://github.com/PrasoonShandilya/prasoonsh
 
 ### WHO
 
-Hey what's up? Full name's Prasoon K. Shandilya but everyone calls me Shandilya. I'm a designer/developer in Kolkata currently completing my research work at IISER Kolkata.
+**Hey what's up?** Full name's Prasoon K. Shandilya but everyone calls me Shandilya. I'm a designer/developer in Kolkata currently completing my research work at IISER Kolkata.
 
 Fluent in full stack mobile app development and improving on my JavaScript jQuery every day. I know my way around Firebase and I've recently started experimenting with REST APIs using React.
 
