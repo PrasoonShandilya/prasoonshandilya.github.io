@@ -17,10 +17,8 @@ Fluent in full stack mobile app development and improving on my JavaScript jQuer
 ### WHAT
 
 [Happily Fit](https://play.google.com/store/apps/details?id=com.apphappily.happilyfit)  
-The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-[Inquivesta](http://www.inquivesta.iiserkol.ac.in/)  
-The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+A multilingual android app with beautiful material UI that helps you to reach your fitness goals faster. Its unique algorithm compares food for you and gives you the best suggestion based on your personal fitness profile. It helps ypu design a workout program for you and also keeps you motivated.  
+*Visit Google play store for complete list of features.*
 
 ### WHERE
 
