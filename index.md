@@ -32,9 +32,9 @@ Kolkata, India
 February 2016 — January 2017  
 Kolkata, India  
 
+### [CV](https://github.com/PrasoonShandilya/prasoonshandilya.github.io/files/743047/startupcv.pdf)
+
 ### GET IN TOUCH
 
 shandilya.prasoon@gmail.com  
 +91-7076630072
-
-### [CV](https://github.com/PrasoonShandilya/prasoonshandilya.github.io/files/743047/startupcv.pdf)
