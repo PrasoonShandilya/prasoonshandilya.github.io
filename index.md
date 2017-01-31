@@ -37,4 +37,4 @@ Kolkata, India
 shandilya.prasoon@gmail.com  
 +91-7076630072
 
-### [MY CV]()
+### [MY CV](https://github.com/PrasoonShandilya/prasoonshandilya.github.io/files/743047/startupcv.pdf)
