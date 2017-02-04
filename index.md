@@ -32,7 +32,7 @@ Kolkata, India
 February 2016 — January 2017  
 Kolkata, India  
 
-### [CV](https://github.com/PrasoonShandilya/prasoonshandilya.github.io/files/743047/startupcv.pdf)
+### [CV](https://github.com/PrasoonShandilya/prasoonshandilya.github.io/files/752107/startupcv.pdf)
 
 ### GET IN TOUCH
 
