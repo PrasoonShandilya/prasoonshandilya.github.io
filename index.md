@@ -37,5 +37,5 @@ Kolkata, India
 ### GET IN TOUCH
 
 shandilya.prasoon@gmail.com  
-+91-7076630072
-[LinkedIn](https://in.linkedin.com/in/prasoonshandilya) [AngelList](https://angel.co/prasoon-shandilya)
++91-7076630072  
+[LinkedIn](https://in.linkedin.com/in/prasoonshandilya), [AngelList](https://angel.co/prasoon-shandilya)
