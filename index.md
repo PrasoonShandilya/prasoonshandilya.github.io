@@ -9,7 +9,7 @@ You can use the [editor on GitHub](https://github.com/PrasoonShandilya/prasoonsh
 
 ### WHO
 
-**Hey what's up?** Full name's Prasoon K. Shandilya but everyone calls me Shandilya. I'm a designer/developer in Kolkata currently completing my research work at IISER Kolkata.
+**Hey what's up?** Full name's Prasoon K. Shandilya but everyone calls me Shandilya. I'm a designer/developer in Kolkata currently pursuing PhD at University of Calgary in Quantum Optics.
 
 Fluent in full stack mobile app development and improving on my JavaScript jQuery every day. I know my way around Firebase and I've recently started experimenting with REST APIs using React.
 
@@ -22,9 +22,14 @@ A multilingual android app with beautiful material UI that helps you to reach yo
 
 ### WHERE
 
-**Researcher**  
+**Graduate Student**  
+***University of Calgary***  
+January 2018 — Present  
+Calgary, Canada  
+
+**BS-MS**  
 ***IISER KOLKATA***  
-August 2012 — Present  
+August 2012 — May 2017  
 Kolkata, India  
 
 **Former Founder**  
@@ -37,5 +42,5 @@ Kolkata, India
 ### GET IN TOUCH
 
 shandilya.prasoon@gmail.com  
-+91-7076630072  
++91-7908911296
 [LinkedIn](https://in.linkedin.com/in/prasoonshandilya), [AngelList](https://angel.co/prasoon-shandilya)
