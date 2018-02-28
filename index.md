@@ -23,12 +23,12 @@ A multilingual android app with beautiful material UI that helps you to reach yo
 ### WHERE
 
 **Graduate Student**  
-***University of Calgary***  
+***University of Calgary***
 January 2018 — Present  
 Calgary, Canada  
 
 **BS-MS in Physics**  
-***IISER KOLKATA*** 
+***IISER KOLKATA***  
 August 2012 — May 2017  
 Kolkata, India  
 
