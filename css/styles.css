@@ -10163,9 +10163,9 @@ section.resume-section .resume-section-content {
 /* Caption text */
 .sstext {
   color: #f2f2f2;
-  background-image: linear-gradient(180deg, rgba(0.16,0.16,0.16,0.3), rgba(0.16,0.16,0.16,0.3));
+  background-image: linear-gradient(180deg, rgba(117,117,117,0.6), rgba(117,117,117,0.6));
   font-size: 15px;
-  padding: 8px 12px;
+  padding: 12px 12px;
   position: absolute;
   bottom: 0px;
   width: 100%;
