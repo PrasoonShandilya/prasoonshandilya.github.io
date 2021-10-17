@@ -10162,11 +10162,12 @@ section.resume-section .resume-section-content {
 
 /* Caption text */
 .sstext {
-  color: #000000;
+  color: #f2f2f2;
+  background-image: linear-gradient(180deg, rgba(0.46,0.46,0.46,0.1), rgba(0,0,0,0.5));
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
-  bottom: 8px;
+  bottom: 0px;
   width: 100%;
   text-align: center;
 }
