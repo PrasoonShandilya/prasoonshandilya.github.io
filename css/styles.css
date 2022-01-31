@@ -10122,7 +10122,6 @@ section.resume-section .resume-section-content {
 .ssslideshow-container {
   max-width: 1000px;
   position: relative;
-  border-radius: 25px;
   margin: auto;
 }
 
@@ -10131,6 +10130,8 @@ section.resume-section .resume-section-content {
   display: none;
   text-align: center;
   background-color: #757575;
+  border-radius: 25px;
+  overflow: hidden;
 }
 
 /* Next & previous buttons */
@@ -10168,6 +10169,7 @@ section.resume-section .resume-section-content {
   font-size: 15px;
   padding: 12px 12px;
   position: absolute;
+  border-radius: 0 0 25px 25px;
   bottom: 0px;
   width: 100%;
   text-align: center;
