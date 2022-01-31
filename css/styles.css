@@ -10122,6 +10122,7 @@ section.resume-section .resume-section-content {
 .ssslideshow-container {
   max-width: 1000px;
   position: relative;
+  border-radius: 25px;
   margin: auto;
 }
 
